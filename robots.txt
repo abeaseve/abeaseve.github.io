@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abeaseve.github.io/sitemap.html.gz
+Sitemap: https://abeaseve.github.io/app/sitemap.html.gz
+Sitemap: https://abeaseve.github.io/assets/sitemap.html.gz
+Sitemap: https://abeaseve.github.io/css/sitemap.html.gz
+Sitemap: https://abeaseve.github.io/includes/sitemap.html.gz
+Sitemap: https://abeaseve.github.io/item/sitemap.html.gz
+Sitemap: https://abeaseve.github.io/src/sitemap.html.gz
